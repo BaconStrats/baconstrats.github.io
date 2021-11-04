@@ -1,37 +1,34 @@
 ## Welcome
+The community is happy you landed here. 
 
-You can use the [editor on GitHub](https://github.com/BaconStrats/MetaBacon/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+TODO: Community Links
+TODO: Link to anchors
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mission Statement
 
-### Markdown
+TODO: Transparent and open source belief, open to everyone to join the dev team
+TODO: Add mission statement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### White Paper
 
-```markdown
-Syntax highlighted code block
+TODO: Summary
+TODO: Medium link
 
-# Header 1
-## Header 2
-### Header 3
+### Tokenomics
 
-- Bulleted
-- List
+TODO: Goal Statement
+TODO: Schedule
 
-1. Numbered
-2. List
+### Distribution
 
-**Bold** and _Italic_ and `Code` text
+TODO: Add planned distribution
 
-[Link](url) and ![Image](src)
-```
+### Project Roadmap
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+TODO: Summary
+TODO: Link map
 
-### Jekyll Themes
+### Community Roadmap
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BaconStrats/MetaBacon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TODO: Summary
+TODO: Services and Ownership Opps
