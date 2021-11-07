@@ -18,8 +18,11 @@ TODO: Medium link
 
 ### Tokenomics
 
-TODO: Goal Statement  
-TODO: Schedule
+We are a US based crypto project, and we believe in having multiple sovereign currencies, where the people can determine the value of A currency.  Back to the frontier days, where two people agree on value of a service. And with every true currency in mankind, it was backed by an commodity.  Not the federal reserve's answer of printing more.  Currency should be a dieing supply.  And with the crypto revolution, we can hard code the absolute value and fair game restrictions. 
+
+Just like every natural resource in hunan history, supplies deplete overtime, and so will the BACONBITS ($BBTS) coin. 
+
+TODO: BURN TIMELINE
 
 ### Distribution
 
