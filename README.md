@@ -7,9 +7,9 @@ TODO: Link to anchors
 
 ### Mission Statement
 
-We believe in a open source community, where contracts are open for public viewing and auditing.  Governance will be driven by proof of ownership, and will driven by the community. Our goal is to not replace the standards of crypto, but have a community alternative to hold value and build the metaverse as they want.  
+We believe in a open source community, where contracts are open for public viewing and auditing.  Governance will be driven by proof of ownership, and will be driven by the community. Our goal is to not replace the standards of crypto, but have a community alternative to hold value and build the metaverse they want.  
 
-As our roadmap shows, we plan to grow the project team from the community where not only you have an opportunity to govern through ownership, but execute the changes the community desires. 
+As our roadmap will show, we plan to grow the project team from the community. Where not only you have an opportunity to govern through ownership, but execute the changes the community desires. 
 
 ### White Paper
 
@@ -18,7 +18,7 @@ TODO: Medium link
 
 ### Tokenomics
 
-We are a US based crypto project, and we believe in having multiple sovereign currencies, where the people can determine the value of A currency.  Back to the frontier days, where two people agree on value of a service. And with every true currency in mankind, it was backed by an commodity.  Not the federal reserve's answer of printing more.  Currency should be a dieing supply.  And with the crypto revolution, we can hard code the absolute value and fair game restrictions. 
+We are a US based crypto project, and we believe in having multiple sovereign currencies, where the people can determine the value of A currency.  Back to the frontier days, where two people agree on the value of a service. And with every true currency in mankind, it was backed by an commodity.  Not the federal reserve's answer of printing more.  Currency should be a dieing supply.  And with the crypto revolution, we can hard code the absolute value and fair game restrictions. 
 
 Just like every natural resource in hunan history, supplies deplete overtime, and so will the BACONBITS ($BBTS) coin. 
 
