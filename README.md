@@ -37,7 +37,8 @@ TODO: Add contract info
 ### Distribution
 This project must have a pre-sale to succeed. We need like minded people who want to build the next community crypto.  An investment has been made by the project team, therefore,three percent (3%) of the total supply has been allocated to them. These funds will be split up evenly by the three team members, and are escrowed into the managing partner's address.  
 
-With the desired services the Meta Bacon hopes to serve, an initial five percent (5%$) has been taken to bring on future ambassadors. 
+With the desired services the Meta Bacon hopes to serve, an initial five percent (5%) has been taken to bring on future ambassadors. 
+
 TODO: Add planned distribution
 
 ### Project Roadmap
