@@ -1,5 +1,5 @@
 ## Welcome
-The community is happy you landed here. BaconStrats' Meta Bacon is designed to be a community funded metaverse.  Where being a diamond hand hodl'r will allow you drive the creation of games, nft's, future contracts, and in the future - board members.  The first requirement to being a community steward is being doxed.  There is anomity when building a community of like minded hodl'ers. 
+The community is happy you landed here. BaconStrats' Meta Bacon is designed to be a community funded metaverse.  Where being a diamond hand hodl'r will allow you to drive the creation of games, nft's, future contracts, and in the future - board members.  The first requirement to being a community steward is being doxed.  There is no anonymity when building a community of like minded hodl'ers. 
 
 [medium][telegram][twitter]
  
@@ -13,7 +13,8 @@ As our roadmap will show, we plan to grow the project team from the community. W
 
 ### White Paper
 
-TODO: Summary  
+The white paper has been hosted on medium, including any project and community updates.  
+ 
 TODO: Medium link
 
 ### Tokenomics
