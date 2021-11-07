@@ -23,13 +23,25 @@ We are a US based crypto project, and we believe in having multiple sovereign cu
 
 Just like every natural resource in human history, supplies deplete overtime, and so will the [TBA] coin. 
 
-TODO: BURN TIMELINE
+TODO: BURN TIMELINE  
+TODO: TRANSACTION TAX
+
+### Where to Buy
+
+TODO: Quickswap Link
+
+### Contract Information
+
+TODO: Add contract info
 
 ### Distribution
+This project must have a pre-sale to succeed. We need like minded people who want to build the next community crypto.  An investment has been made by the project team, therefore,three percent (3%) of the total supply has been allocated to them. These funds will be split up evenly by the three team members, and are escrowed into the managing partner's address.  
 
+With the desired services the Meta Bacon hopes to serve, an initial five percent (5%$) has been taken to bring on future ambassadors. 
 TODO: Add planned distribution
 
 ### Project Roadmap
+This project will start as a community invested venture, and the success will be determined by the community. The roadmap is simple, have a enough community adoption to create a metaverse. 
 
 TODO: Summary  
 TODO: Link map
@@ -37,7 +49,7 @@ TODO: Link map
 ### Community Roadmap
 
 TODO: Summary  
-TODO: Services and Ownership Opps
+TODO: Services and Ownership Ops
 
 ### Dev Team
 
