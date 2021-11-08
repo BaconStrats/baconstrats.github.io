@@ -44,8 +44,7 @@ TODO: Add planned distribution
 ### Project Roadmap
 This project will start as a community invested venture, and the success will be determined by the community. The roadmap is simple, have a enough community adoption to create a metaverse. 
 
-TODO: Summary  
-TODO: Link map
+![Project Timeline](/assets/img/project-timeline.png "Project Timeline")
 
 ### Community Roadmap
 
